@@ -1,0 +1,13 @@
+What is MongoDB?
+MongoDB is a NoSQL database that stores data in a flexible, JSON-like format called BSON. It’s ideal for modern web applications that require fast performance, scalability, and flexibility in data structure.
+
+Why is it used?
+Schema-less structure (flexible)
+
+Scales easily with big data
+
+Easy to integrate with modern JavaScript-based stacks like Node.js
+
+What is Mongoose?
+Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js. It simplifies interactions with MongoDB by allowing developers to define schemas and models, perform validations, and use powerful query-building features.
+
